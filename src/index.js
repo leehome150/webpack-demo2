@@ -1,7 +1,7 @@
 import "./a.css";
 import x from "./x.js";
 import a from "./xm.jpg";
-console.log(applicationCache);
+console.log(a);
 
 const div = document.getElementById("test");
 div.innerHTML = `<img src="${a}">`;
